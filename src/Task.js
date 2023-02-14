@@ -6,8 +6,8 @@ class Task extends Component {
     this.state = {
       listTodos: [
         {id: 'todo1', title: 'Doing homework'},
-        {id: 'todo2', title:'Making video'},
-        {id:'todo3',title:'fix'},
+        {id: 'todo2', title:'learn react'},
+        {id:'todo3',title:'play game'},
       ],
 
       title: '',
